@@ -29,7 +29,7 @@ PostgreSQL / H2
 
 JUnit 5 + Mockito
 
-Maven / Gradle
+Maven
 
 🔐 Аутентификация
 
@@ -84,14 +84,12 @@ Content-Type: application/json
 Для запуска тестов:
 
 ./mvnw test
-# или
-./gradlew test
 
 🚀 Запуск
 
 Склонируйте проект:
 
-git clone https://github.com/your-username/game-review-api.git
+git clone https://github.com/Bormitus/GameReviewApi.git
 
 Настройте application.properties или application.yml.
 
